@@ -37,13 +37,9 @@ Follow these steps to run the application locally.
 
 <h3> Installation</h3>
 
-1. <b>Clone the Repository:</b>
-<p>
-    git clone https://github.com/ichhakumari/health-challenge-tracker-master.git
-    cd Health-Challenge-Tracker
-</p>
 
-2. <b>Install Dependencies:</b>
+
+1. <b>Install Dependencies:</b>
 <p>
     npm install
 </p>
